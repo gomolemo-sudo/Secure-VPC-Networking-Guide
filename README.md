@@ -56,5 +56,5 @@ This lab demonstrates best practices for secure VPC design, allowing organizatio
 
 ## Author  
 **Gomolemo Hlatshwayo**  
-- [LinkedIn](https://www.linkedin.com/in/lemon-paw)  
+- [LinkedIn](https://www.linkedin.com/in/gomolemo-hlatshwayo-2b844522a/)  
 - [GitHub](https://github.com/gomolemo-sudo)  
